@@ -1,0 +1,3 @@
+build/rbspeex.o: rbspeex.c rbspeex.h
+build/rbspeexenc.o: rbspeexenc.c rbspeex.h
+build/rbspeexdec.o: rbspeexdec.c rbspeex.h
