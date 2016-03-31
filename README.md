@@ -9,4 +9,4 @@ $ ../tools/configure
 ==Application==
  200) SDL
 $ make
-# make install
+$ sudo make install
